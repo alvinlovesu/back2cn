@@ -1,4 +1,4 @@
-﻿// https://github.com/clowwindy/gfwlist2pac
+﻿// https://github.com/wcypcfan/back2cn
 
 var proxy = "__PROXY__";
 
@@ -23,6 +23,7 @@ var rules = [
   "||gov.cn",
   "||qq.com",
   "||sina.cn",
+  "||taihe.com",
   "||sina.com.cn",
   "||sogou.com",
   "||so.com",
@@ -30,13 +31,13 @@ var rules = [
   "||uluai.com.cn",
   "||weibo.com",
   "||yahoo.cn",
+  "||qianqian.com",
   "||youdao.com",
   "||zhongsou.com",
   "||ku6.cn",
   "||kugou.com"
   "||le.com"
   "|http://ime.baidu.jp"
-  "||@@github.com"
 ];
 
 /*
